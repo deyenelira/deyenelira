@@ -1,11 +1,4 @@
 # Hi there! <img src="https://media.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif" height="35px" width="35px"/> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=deyenelira.deyenelira)
-
-### ⭐ About me
-
-#####
-- 💻 I'm 22 years old and a Computer Engineering undergraduate student at CIn/UFPE. 
-- ❤ Passionate about learning new programming languages and helping others by using technology. 
-
 ### 
 
 <div>
